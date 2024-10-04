@@ -1,6 +1,7 @@
 "use strict";
 class Test {
-    constructor() {
-        this.a = "a";
-    }
+  constructor() {
+    this.a = "a";
+    
+  }
 }
