@@ -2,7 +2,7 @@ export type CategoryProperties = {
   name: string;
   description?: string;
   is_active?: boolean;
-  create_at?: Date;
+  created_at?: Date;
 };
 
 export class Category {
@@ -17,7 +17,7 @@ export class Category {
     return this.props.is_active;
   }
   get created_at() {
-    return this.props.create_at;
+    return this.props.created_at;
   }
 }
 const category = new Category({ name: "Movie" });
