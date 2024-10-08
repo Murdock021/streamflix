@@ -6,11 +6,11 @@ FN:16,get is_active
 FN:19,get created_at
 FN:9,Category
 FNF:5
-FNH:5
-FNDA:1,get name
-FNDA:1,get description
-FNDA:1,get is_active
-FNDA:1,get created_at
+FNH:1
+FNDA:0,get name
+FNDA:0,get description
+FNDA:0,get is_active
+FNDA:0,get created_at
 FNDA:2,Category
 DA:1,1
 DA:2,1
@@ -22,17 +22,17 @@ DA:7,1
 DA:8,1
 DA:9,1
 DA:10,1
-DA:11,1
-DA:12,1
+DA:11,0
+DA:12,0
 DA:13,1
-DA:14,1
-DA:15,1
+DA:14,0
+DA:15,0
 DA:16,1
-DA:17,1
-DA:18,1
+DA:17,0
+DA:18,0
 DA:19,1
-DA:20,1
-DA:21,1
+DA:20,0
+DA:21,0
 DA:22,1
 DA:23,1
 DA:24,1
@@ -42,12 +42,8 @@ DA:27,1
 DA:28,1
 DA:29,1
 LF:29
-LH:29
-BRDA:10,0,0,1
-BRDA:13,1,0,1
-BRDA:16,2,0,1
-BRDA:19,3,0,1
-BRDA:9,4,0,2
-BRF:5
-BRH:5
+LH:21
+BRDA:9,0,0,2
+BRF:1
+BRH:1
 end_of_record
