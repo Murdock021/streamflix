@@ -1,9 +1,9 @@
 TN:
 SF:src/category/domain/entities/category.ts
-FN:10,get name
-FN:13,get description
-FN:16,get is_active
-FN:19,get created_at
+FN:15,get name
+FN:18,get description
+FN:21,get is_active
+FN:24,get created_at
 FN:9,Category
 FNF:5
 FNH:1
@@ -21,29 +21,41 @@ DA:6,1
 DA:7,1
 DA:8,1
 DA:9,1
-DA:10,1
-DA:11,0
-DA:12,0
-DA:13,1
-DA:14,0
-DA:15,0
-DA:16,1
+DA:10,2
+DA:11,2
+DA:12,2
+DA:13,2
+DA:14,1
+DA:15,1
+DA:16,0
 DA:17,0
-DA:18,0
-DA:19,1
+DA:18,1
+DA:19,0
 DA:20,0
-DA:21,0
-DA:22,1
-DA:23,1
+DA:21,1
+DA:22,0
+DA:23,0
 DA:24,1
-DA:25,1
-DA:26,1
+DA:25,0
+DA:26,0
 DA:27,1
 DA:28,1
 DA:29,1
-LF:29
-LH:21
+DA:30,1
+DA:31,1
+DA:32,1
+DA:33,1
+DA:34,1
+DA:35,1
+LF:35
+LH:27
 BRDA:9,0,0,2
-BRF:1
-BRH:1
+BRDA:10,1,0,1
+BRDA:10,2,0,1
+BRDA:11,3,0,1
+BRDA:11,4,0,1
+BRDA:12,5,0,1
+BRDA:12,6,0,1
+BRF:7
+BRH:7
 end_of_record
